@@ -1,27 +1,27 @@
-# ⚡ Fiya  
+# ⚡ Fiya  - Find your ally
 
-![🔥](https://img.shields.io/badge/Innovation-🔥-red) ![🚀](https://img.shields.io/badge/Building-Future-blue)  
+![🔥](https://img.shields.io/badge/Innovation-🔥-red)  
+![🚀](https://img.shields.io/badge/Building-Future-blue)  
+![🤝](https://img.shields.io/badge/Connecting-Minds-green)  
+![💡](https://img.shields.io/badge/Ideas-Into-Reality-yellow)  
 
 ---
-
 </details>
 
 ---
 
-## 👥 Team 👨‍💻  
-| Name               | Role  |  
-|-------------------|------|  
-| 🎯 **Kalash Harchandani** | Lead  |  
-| ⚡ **Anmol Shrivastva**  | Member  |  
-| 🚀 **Vriti Gupta**  | Member  |  
-| 🔥 **Shubh Gupta**  | Member  |  
+## 👥 Team 💎  
+🎯 **Kalash Harchandani**  
+⚡ **Anmol Shrivastva**  
+🚀 **Vriti Gupta**  
+🔥 **Shubh Gupta**  
 
 ---
 
 ## 🔥 Our Motto 🌟  
-> *"Great ideas deserve great teams. Let’s build the future, together."*  
+> **"The right team can change the future. Let’s build something legendary."**  
 
 ---
 
-🎯 **Stay focused. Stay driven. Let’s make it happen!** 🚀  
+🎯 **Dream Big. Build Smart. Stay Unstoppable.** 🚀  
 
