@@ -3,7 +3,6 @@
 ![🔥](https://img.shields.io/badge/Innovation-🔥-red)  
 ![🚀](https://img.shields.io/badge/Building-Future-blue)  
 ![🤝](https://img.shields.io/badge/Connecting-Minds-green)  
-![💡](https://img.shields.io/badge/Ideas-Into-Reality-yellow)  
 
 ---
 </details>
