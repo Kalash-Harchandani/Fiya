@@ -46,7 +46,7 @@
      3. Mode Switch Button
      ======================================= */
   .mode-switch {
-    position: fixed;
+    position: absolute;
     top: 2.75%;
     right: 10%;
     background: linear-gradient(135deg, var(--accent-color), var(--accent-light));
